@@ -9,7 +9,6 @@ A beautiful, minimalist Linux desktop speed test app built with Python + PyQt6.
 - Animated arc gauge with smooth live updates
 - Ping / Download / Upload stat cards
 - Frameless, draggable dark UI
-- Proprietary — do not redistribute
 
 ---
 
